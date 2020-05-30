@@ -35,6 +35,8 @@ Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the N
 
 - 2018 University Study Prize for Sara Issaoun [Article](https://www.ru.nl/astrophysics/@1172851/2018-university-study-prize-sara-issaoun/)
 
+- Interview with MEDIA INAF: First picture of a black hole? Not until 2019. (Italian) [Article](https://www.media.inaf.it/2018/10/09/foto-del-secolo/)
+
 - Black Hole Hunting in Arizona – by Freek Roelofs and Sara Issaoun [Article](https://blackholecam.org/black-hole-hunting-in-arizona-by-freek-roelofs-and-sara-issaoun/)
 
 ![](http://sissaoun.github.io/images/JulieLucie-Zomervox-Sara-7792.jpg)
