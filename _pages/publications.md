@@ -8,7 +8,7 @@ author_profile: true
 You can find my papers on [ADS](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=OR&filter_database_fq_database=database%3A%22astronomy%22&format=SHORT&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&q=author%3A(%22Issaoun%2C%20S.%22)&sort=score%20desc%2C%20bibcode%20desc&unprocessed_parameter=qform&unprocessed_parameter=adsobj_query&p_=0) or on [ArXiv](https://arxiv.org/search/?searchtype=author&query=Issaoun%2C+S). 
 
 **First Author Papers**
-- **S. Issaoun**, M. D. Johnson, L. Blackburn, M. Mościbrodzka, A. Chael, H. Falcke (2019) VLBI imaging of black holes via second moment regularization.  A&A, 629, A32.[ArXiv](https://arxiv.org/abs/1908.01296)
+- **S. Issaoun**, M. D. Johnson, L. Blackburn, M. Mościbrodzka, A. Chael, H. Falcke (2019) VLBI imaging of black holes via second moment regularization.  A&A, 629, A32. [ArXiv](https://arxiv.org/abs/1908.01296)
 
 - **S. Issaoun**, M. D. Johnson, L. Blackburn, C. D. Brinkerink, M.  Mościbrodzka, A. Chael, C. Goddi, I. Marti-Vidal, J. Wagner, S. S. Doeleman, H. Falcke, T. P. Krichbaum,+ 32 others (2019) The Size, Shape and Scattering of Sagittarius A* at 86 GHz: First VLBI with ALMA. ApJ, Volume 871, 30. [ArXiv](https://arxiv.org/abs/1901.06226)
 
@@ -24,7 +24,7 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/search/filter_data
 
 - C. Goddi, G. Crew, V. Impellizzeri, I. Marti-Vidal, L. D. Matthews, H. Messias, H. Rottmann, W. Alef, L. Blackburn, T. Bronzwaer, C.-K. Chan, J. Davelaar, R. Deane, J. Dexter, S. Doeleman, H. Falcke, V. L. Fish, R. Fraga-Encinas, C. M. Fromm, R. Herrero-Illana, **S. Issaoun**, D. James, M. Janssen, M. Kramer, T. P. Krichbaum, M. De Laurentis, E. Liuzzo, Y. Mizuno, M. Moscibrodzka, I. Natarajan, O. Porth, L. Rezzolla, K. Rygl, F. Roelofs, E. Ros, A. L. Roy, L. Shao, H. Jan van Langevelde, I. van Bemmel, R. Tilanus, P. Torne, M. Wielgus, Z. Younsi, J. A. Zensus (on behalf of the EHT collaboration) (2019) First M87 Event Horizon Telescope Results and the Role of ALMA. The Messenger, vol. 177, p. 25-35. [ArXiv](https://arxiv.org/abs/1910.10193)
 
-L. Blackburn, C.-K. Chan, G. B. Crew, V. L. Fish, **S. Issaoun**, M. D. Johnson, M. Wielgus, K. Akiyama, J. Barrett, K. L. Bouman, R. Cappallo, A. A. Chael, M. Janssen, C. J. Lonsdale, S. S. Doeleman (2019) EHT-HOPS pipeline for millimeter VLBI data reduction. ApJ, Volume 882,  23. [ArXiv](https://arxiv.org/abs/1903.08832)
+- L. Blackburn, C.-K. Chan, G. B. Crew, V. L. Fish, **S. Issaoun**, M. D. Johnson, M. Wielgus, K. Akiyama, J. Barrett, K. L. Bouman, R. Cappallo, A. A. Chael, M. Janssen, C. J. Lonsdale, S. S. Doeleman (2019) EHT-HOPS pipeline for millimeter VLBI data reduction. ApJ, Volume 882,  23. [ArXiv](https://arxiv.org/abs/1903.08832)
 
 - O. Porth, **EHT Collaboration** et al. (2019) The Event Horizon General Relativistic Magnetohydrodynamic Code Comparison Project. ApJS, Volume 243, Issue 2, 26. [ArXiv](https://arxiv.org/abs/1904.04923)
 
