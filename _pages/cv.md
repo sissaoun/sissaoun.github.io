@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-[Here](http://sissaoun.github.io/files/sissaoun_cv.pdf) is a link to download a PDF of my CV. 
+A PDF of my CV can be downloaded [here](http://sissaoun.github.io/files/sissaoun_cv.pdf). 
