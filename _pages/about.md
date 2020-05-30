@@ -12,7 +12,7 @@ redirect_from:
 
 I am an observational astronomer and a member of the [Event Horizon Telescope](https://eventhorizontelescope.org/) (EHT) Collaboration. My research centers around the collection, calibration and analysis of millimeter-wave radio observations of supermassive black holes. Supermassive black holes generate the highest energy processes in the known Universe, ejecting jets of plasma affecting galaxy environments on large scales, but their dynamics and emission mechanisms remain shrouded in mystery. I make use of global networks of radio-telescopes to image and study the immediate surroundings of the two closest supermassive black holes, at the centers of our Galaxy and the galaxy M87. I am a leading contributor of the data calibration and imaging efforts that led to the [first image of a black hole](https://eventhorizontelescope.org/blog/first-ever-image-black-hole-published-event-horizon-telescope-collaboration) released by the EHT in April 2019. My research specialty is [Sagittarius A\*](https://en.wikipedia.org/wiki/Sagittarius_A*), the supermassive black hole at the center of our Milky Way.
 
-Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the Netherlands. I received a BSc in Physics with a minor concentration in Economics from [McGill University](https://www.mcgill.ca/) in 2015, and an MSc in Astrophysics from [Radboud University](https://www.ru.nl/english/) in 2017. I was a visiting Predoctoral Fellow at the Center for Astrophysics, Harvard & Smithsonian, supervised by Dr. Michael Johnson. I am currently pursuing a PhD degree in Astrophysics at Radboud University under the supervision of Prof. [Heino Falcke](http://www.astro.ru.nl/~falcke/). 
+Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the Netherlands. I received a BSc in Physics with a minor concentration in Economics from [McGill University](https://www.mcgill.ca/) in 2015, and an MSc in Astrophysics from [Radboud University](https://www.ru.nl/english/) in 2017. I was a visiting Predoctoral Fellow at the Center for Astrophysics - Harvard & Smithsonian in 2018, supervised by Dr. Michael Johnson. I am currently pursuing a PhD degree in Astrophysics at Radboud University under the supervision of Prof. [Heino Falcke](http://www.astro.ru.nl/~falcke/). 
 
 
 ## News
@@ -27,11 +27,15 @@ Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the N
 
 - Vox interview feature. [Article](https://www.voxweb.nl/international/the-rising-star-of-sara-issaoun)
 
+- ESO interview: Behind the Black Hole [Article](https://www.eso.org/public/blog/behind-the-black-hole/)
+
 - First Image of a Black Hole by the Event Horizon Telescope [Press Release](https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole), [Local PR](https://www.ru.nl/astrophysics/news-agenda/news/vm/astronomers-capture-first-image-black-hole/) 
 
 -  Lifting the veil on the black hole at the heart of our Galaxy (press release for 86 GHz Sgr A* paper led by Sara Issaoun) [Press Release](https://www.ru.nl/astrophysics/news-agenda/news/vm/lifting-the-veil-on-the-black-hole-at-the-heart/)
 
 - 2018 University Study Prize for Sara Issaoun [Article](https://www.ru.nl/astrophysics/@1172851/2018-university-study-prize-sara-issaoun/)
+
+- Black Hole Hunting in Arizona – by Freek Roelofs and Sara Issaoun [Article](https://blackholecam.org/black-hole-hunting-in-arizona-by-freek-roelofs-and-sara-issaoun/)
 
 ![](http://sissaoun.github.io/images/JulieLucie-Zomervox-Sara-7792.jpg)
 *Photo by Julie de Bruin for Vox*
