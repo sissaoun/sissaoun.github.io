@@ -25,7 +25,7 @@ Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the N
 
 - Sara Issaoun awarded a 2019 Christine Mohrmann Stipend for top female PhD candidates [Announcement](https://www.ru.nl/english/news-agenda/news/vm/general/2019/mohrmann-stipend-ten-female-phd-candidates/) 
 
-- VOX interview feature. [Article](https://www.voxweb.nl/international/the-rising-star-of-sara-issaoun)
+- Vox interview feature. [Article](https://www.voxweb.nl/international/the-rising-star-of-sara-issaoun)
 
 - First Image of a Black Hole by the Event Horizon Telescope [Press Release](https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole), [Local PR](https://www.ru.nl/astrophysics/news-agenda/news/vm/astronomers-capture-first-image-black-hole/) 
 
@@ -34,4 +34,4 @@ Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the N
 - 2018 University Study Prize for Sara Issaoun [Article](https://www.ru.nl/astrophysics/@1172851/2018-university-study-prize-sara-issaoun/)
 
 ![](http://sissaoun.github.io/images/JulieLucie-Zomervox-Sara-7792.jpg)
-Photo by Julie de Bruin for Vox
+*Photo by Julie de Bruin for Vox*
