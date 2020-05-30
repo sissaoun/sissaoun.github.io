@@ -18,10 +18,17 @@ Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the N
 ## News
 
 - Corkscrew-shaped jet appears near black hole in Virgo constellation (press release for EHT 3C279 paper) [Press Release](https://www.ru.nl/english/news-agenda/news/vm/imapp/2020/corkscrew-shaped-jet-appears-near-black-hole-virgo/)
+
 - 2020 Einstein Medal awarded to the Event Horizon Telescope Collaboration. [Announcement](https://www.einstein-bern.ch/)
+
 - 2020 Breakthrough Prize in Fundamental Physics awarded to the Event Horizon Telescope Collaboration. [Announcement](https://breakthroughprize.org/News/54), [Article](https://news.harvard.edu/gazette/story/2019/09/black-hole-project-nets-breakthrough-prize/)
-- Sara Issaoun awarded a 2019 Christine Mohrmann Stipend for outstanding work by a female PhD student [Announcement](https://www.ru.nl/english/news-agenda/news/vm/general/2019/mohrmann-stipend-ten-female-phd-candidates/) 
+
+- Sara Issaoun awarded a 2019 Christine Mohrmann Stipend for top female PhD candidates [Announcement](https://www.ru.nl/english/news-agenda/news/vm/general/2019/mohrmann-stipend-ten-female-phd-candidates/) 
+
 - VOX interview feature. [Article](https://www.voxweb.nl/international/the-rising-star-of-sara-issaoun)
+
 - First Image of a Black Hole by the Event Horizon Telescope [Press Release](https://eventhorizontelescope.org/press-release-april-10-2019-astronomers-capture-first-image-black-hole), [Local PR](https://www.ru.nl/astrophysics/news-agenda/news/vm/astronomers-capture-first-image-black-hole/) 
+
 -  Lifting the veil on the black hole at the heart of our Galaxy (press release for 86 GHz Sgr A* paper led by Sara Issaoun) [Press Release](https://www.ru.nl/astrophysics/news-agenda/news/vm/lifting-the-veil-on-the-black-hole-at-the-heart/)
+
 - 2018 University Study Prize for Sara Issaoun [Article](https://www.ru.nl/astrophysics/@1172851/2018-university-study-prize-sara-issaoun/)
