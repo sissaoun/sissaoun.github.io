@@ -32,3 +32,5 @@ Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the N
 -  Lifting the veil on the black hole at the heart of our Galaxy (press release for 86 GHz Sgr A* paper led by Sara Issaoun) [Press Release](https://www.ru.nl/astrophysics/news-agenda/news/vm/lifting-the-veil-on-the-black-hole-at-the-heart/)
 
 - 2018 University Study Prize for Sara Issaoun [Article](https://www.ru.nl/astrophysics/@1172851/2018-university-study-prize-sara-issaoun/)
+
+![alt text](https://github.com/adam-p/sissaoun/sissaoun.github.io/images/JulieLucie-Zomervox-Sara-7796.png "Photo by Julie de Bruin for Vox")
