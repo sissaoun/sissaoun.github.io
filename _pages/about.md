@@ -33,5 +33,5 @@ Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the N
 
 - 2018 University Study Prize for Sara Issaoun [Article](https://www.ru.nl/astrophysics/@1172851/2018-university-study-prize-sara-issaoun/)
 
-![](JulieLucie-Zomervox-Sara-7792.jpg)
+![](images/JulieLucie-Zomervox-Sara-7792.jpg)
 Photo by Julie de Bruin for Vox
