@@ -12,10 +12,22 @@ redirect_from:
 
 I am an observational astronomer and a member of the [Event Horizon Telescope](https://eventhorizontelescope.org/) (EHT) Collaboration. My research centers around the collection, calibration and analysis of millimeter-wave radio observations of supermassive black holes. Supermassive black holes generate the highest energy processes in the known Universe, ejecting jets of plasma affecting galaxy environments on large scales, but their dynamics and emission mechanisms remain shrouded in mystery. I make use of global networks of radio-telescopes to image and study the immediate surroundings of the supermassive black holes at the centers of our Galaxy and the galaxy M87. I am a leading contributor of the data calibration and imaging efforts that led to the [first image of a black hole](https://eventhorizontelescope.org/blog/first-ever-image-black-hole-published-event-horizon-telescope-collaboration) released by the EHT in April 2019. My research specialty is [Sagittarius A\*](https://en.wikipedia.org/wiki/Sagittarius_A*), the supermassive black hole at the center of our Milky Way.
 
-Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the Netherlands. I received a BSc in Physics with a minor concentration in Economics from [McGill University](https://www.mcgill.ca/) in 2015, and an MSc in Astrophysics from [Radboud University](https://www.ru.nl/english/) in 2017. I was a visiting Predoctoral Fellow at the [Center for Astrophysics - Harvard & Smithsonian](https://www.cfa.harvard.edu/) in 2018, supervised by Dr. [Michael Johnson](http://www.scintillatingastronomy.com/). I am currently pursuing a PhD degree in Astrophysics at Radboud University under the supervision of Prof. [Heino Falcke](http://www.astro.ru.nl/~falcke/). 
+Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the Netherlands. I received a BSc in Physics with a minor concentration in Economics from [McGill University](https://www.mcgill.ca/) in 2015, and an MSc in Astrophysics from [Radboud University](https://www.ru.nl/english/) in 2017. I was a visiting Predoctoral Fellow at the [Center for Astrophysics | Harvard & Smithsonian](https://www.cfa.harvard.edu/) in 2018, supervised by Dr. [Michael Johnson](http://www.scintillatingastronomy.com/). I am currently pursuing a PhD degree in Astrophysics at Radboud University under the supervision of Prof. [Heino Falcke](http://www.astro.ru.nl/~falcke/). After graduating, I will be starting as a [NASA Einstein Fellow](https://www.nasa.gov/feature/goddard/2021/nasa-awards-postdoctoral-fellowships-for-2021) at the Center for Astrophysics | Harvard & Smithsonian.
 
 
 ## News
+
+- Physicists Identify the Engine Powering Black Hole Energy Beams, Quanta Magazine [Article](https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/)
+
+- Sterrenkundige Sara Issaoun is Bazaars Woman of the Week, Harper's Bazaar NL [Article](https://www.harpersbazaar.com/nl/women-of-the-year/a36287191/sara-issaoun-sterrenkundige-astronoom/)
+
+- Sara Issaoun is the winner of For Women in Science Rising Talent Prize [Announcement](https://www.ru.nl/astrophysics/news-agenda/news/vm/sara-issaoun-the-winner-for-women-science-rising/)
+
+- Sara Issaoun is a NASA Hubble Fellowship Program 2021 Fellow [NASA Announcement](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2021-nhfp-fellows), [Harvard Announcement](https://news.harvard.edu/gazette/story/newsplus/three-incoming-postdoctoral-researchers-awarded-nasa-hubble-fellowships/)
+
+- New picture of famous black hole reveals its swirling magnetic field, New Scientist [Article](https://www.newscientist.com/article/2272226-new-picture-of-famous-black-hole-reveals-its-swirling-magnetic-field/)
+
+- Astronomers Image Magnetic Fields at the Edge of M87’s Black Hole [EHT Press Release](https://eventhorizontelescope.org/blog/astronomers-image-magnetic-fields-edge-m87s-black-hole)
 
 - Shadow of black hole M87* is wobbling (press release for EHT M87 monitoring paper) [Press Release](https://www.ru.nl/english/news-agenda/news/vm/imapp/2020/shadow-black-hole-m87-wobbling/)
 
