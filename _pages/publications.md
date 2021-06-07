@@ -11,9 +11,9 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/search/filter_data
 
 - **S. Issaoun**, M.D. Johnson, L. Blackburn, A. Broderick, P. Tiede, M. Wielgus, S.S. Doeleman, H.~Falcke, K. Akiyama, G.C. Bower, C.D. Brinkerink, A. Chael, I. Cho, J.L. Gómez, A. Hernández-Gómez, D. Hughes, M. Kino, T.P. Krichbaum, E. Liuzzo, L. Loinard, S. Markoff, D.P. Marrone, Y. Mizuno, J.M. Moran, Y. Pidopryhora, E. Ros, K. Rygl, Z.-Q. Shen, and J.~Wagner (2021) Persistent Non-Gaussian Structure in the Image of Sagittarius A* at 86 GHz. Accepted to ApJ. [ArXiv](https://arxiv.org/abs/2104.07610)
 
-- J.Y. Kim, T. P. Krichbaum, A. E. Broderick, M. Wielgus, L. Blackburn, J. L. Gómez, M. D. Johnson, K. L. Bouman, A. Chael, K. Akiyama, S. Jorstad, A. P. Marscher, **S. Issaoun**, M. Janssen, C.-K. Chan, T. Savolainen, D. W. Pesce, F. Özel, EHT Collaboration et al. (2020) Event Horizon Telescope imaging of the archetypal blazar 3C 279 at an extreme 20 microarcsecond resolution. Accepted to A&A. [A&A Free Access](https://www.aanda.org/articles/aa/pdf/forth/aa37493-20.pdf)
-
 - **EHT Collaboration** et al. (2021a,b) First EHT M87 Results. VII-VIII,  Volume 910, L12-L13. [ApJL Open Access](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_EHT) 
+- 
+- J.Y. Kim, T. P. Krichbaum, A. E. Broderick, M. Wielgus, L. Blackburn, J. L. Gómez, M. D. Johnson, K. L. Bouman, A. Chael, K. Akiyama, S. Jorstad, A. P. Marscher, **S. Issaoun**, M. Janssen, C.-K. Chan, T. Savolainen, D. W. Pesce, F. Özel, EHT Collaboration et al. (2020) Event Horizon Telescope imaging of the archetypal blazar 3C 279 at an extreme 20 microarcsecond resolution. Accepted to A&A. [A&A Free Access](https://www.aanda.org/articles/aa/pdf/forth/aa37493-20.pdf)
 
 - F. Roelofs, M. Janssen, **EHT Collaboration** et al. (2020) SYMBA: An end-to-end VLBI synthetic data generation pipeline. Simulating Event Horizon Telescope observations of M 87. A&A, Volume 636, A5. [ArXiv](https://arxiv.org/abs/2004.01161)
 
