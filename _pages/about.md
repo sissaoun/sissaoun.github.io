@@ -39,6 +39,8 @@ Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the N
 
 - Sara Issaoun is a NASA Hubble Fellowship Program 2021 Fellow [Announcement](https://www.stsci.edu/stsci-research/fellowships/nasa-hubble-fellowship-program/2021-nhfp-fellows), [Harvard Announcement](https://news.harvard.edu/gazette/story/newsplus/three-incoming-postdoctoral-researchers-awarded-nasa-hubble-fellowships/)
 
+- New image reveals supermassive black hole's swirling magnetic field, CNN [Article](https://www.cnn.com/2021/03/24/world/black-hole-magnetic-field-image-scn/index.html)
+
 - New picture of famous black hole reveals its swirling magnetic field, New Scientist [Article](https://www.newscientist.com/article/2272226-new-picture-of-famous-black-hole-reveals-its-swirling-magnetic-field/)
 
 - Astronomers Image Magnetic Fields at the Edge of M87’s Black Hole [EHT Press Release](https://eventhorizontelescope.org/blog/astronomers-image-magnetic-fields-edge-m87s-black-hole)
