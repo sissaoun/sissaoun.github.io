@@ -29,7 +29,7 @@ Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the N
 
 - Astronomers Reveal First Image of the Black Hole at the Heart of Our Galaxy [Harvard Press Release](https://pweb.cfa.harvard.edu/news/astronomers-reveal-first-image-black-hole-heart-our-galaxy)
 
-- Right Now In Tech: PyCON U.S., Forbes [Article](https://www.forbes.com/sites/curtissilver/2022/05/06/right-now-in-tech-pycon-us-2022/?sh=3648dbe42bad)
+- Right Now In Tech: PyCon U.S., Forbes [Article](https://www.forbes.com/sites/curtissilver/2022/05/06/right-now-in-tech-pycon-us-2022/?sh=3648dbe42bad)
 
 - Physicists Identify the Engine Powering Black Hole Energy Beams, Quanta Magazine [Article](https://www.quantamagazine.org/physicists-identify-the-engine-powering-black-hole-energy-beams-20210520/)
 
