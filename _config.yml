@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sara Issaoun"
 title_separator          : "-"
 name                     : &name "Sara Issaoun"
-description              : &description "NASA Einstein Fellow"
+description              : &description "SMA Fellow"
 url                      : https://sissaoun.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sissaoun/sissaoun.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Sara Issaoun"
   avatar           : "Sara_Issaoun.jpg"
-  bio              : "NASA Einstein Fellow at the Harvard & Smithsonian Center for Astrophysics specializing in near-horizon observations of supermassive black holes. Member of the Event Horizon Telescope."
+  bio              : "SMA Fellow at the Harvard & Smithsonian Center for Astrophysics specializing in near-horizon observations of supermassive black holes. Member of the Event Horizon Telescope."
   location         : "60 Garden Street, MA 02138, USA"
   employer         :
   pubmed           : 
