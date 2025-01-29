@@ -19,6 +19,8 @@ Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the N
 
 - Black Hole Explorer Hopes to Reveal New Details of Supermassive Black Holes (SAO partners with NRAO) [CfA Press Release](https://www.cfa.harvard.edu/news/black-hole-explorer-hopes-reveal-new-details-supermassive-black-holes)
 
+- New images shed light on the supermassive black hole at the center of the Milky Way [NPR All Things Considered](https://www.npr.org/2024/03/29/1241726873/new-images-shed-light-on-the-supermassive-blackhole-at-the-center-of-the-milky-w)
+
 - Astronomers Unveil Strong Magnetic Fields Spiraling at the Edge of Milky Way’s Central Black Hole [CfA Press Release](https://www.cfa.harvard.edu/news/astronomers-unveil-strong-magnetic-fields-spiraling-edge-milky-ways-central-black-hole)
 
 - Sara Issaoun awarded with Christiaan Huygens science prize [Radboud Press Release](https://www.ru.nl/astrophysics/news-agenda/news/vm/sara-issaoun-awarded-with-christiaan-huygens/)
