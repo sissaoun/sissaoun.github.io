@@ -17,7 +17,7 @@ Born in Algeria, I spent my childhood in Montreal, Canada, and my teens in the N
 
 ## News
 
-- Astronomers take the first step towards multi-color black hole observations with the Event Horizon Telescope [CfA News Feature](https://www.cfa.harvard.edu/news/black-hole-explorer-hopes-reveal-new-details-supermassive-black-holes](https://www.cfa.harvard.edu/news/astronomers-take-first-step-towards-multi-color-black-hole-observations-event-horizon-telescope)
+- Astronomers take the first step towards multi-color black hole observations with the Event Horizon Telescope [CfA News Feature](https://www.cfa.harvard.edu/news/astronomers-take-first-step-towards-multi-color-black-hole-observations-event-horizon-telescope)
 
 - Black Hole Explorer Hopes to Reveal New Details of Supermassive Black Holes (SAO partners with NRAO) [CfA Press Release](https://www.cfa.harvard.edu/news/black-hole-explorer-hopes-reveal-new-details-supermassive-black-holes)
 
