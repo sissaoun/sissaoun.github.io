@@ -9,6 +9,16 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/search/filter_data
 
 **Select Publications** 
 
+- **S. Issaoun**, D. Pesce, M. J. Rioja, R. Dodson, L. Blackburn, G. K. Keating, S. S. Doeleman, B.W. Sohn, W. Jiang, D. Hoak, W. Yu, P. Torne, R. Rao, R. P. J. Tilanus, I. Marti-Vidal, T. Jung, G. Fitzpatrick, M. Sanchez-Portal, S. Sanchez, J. Weintroub, M. Gurwell, C. Kramer, C. Duran, D. John, J. L. Santaren, D. Kubo, C.-C. Han, H. Rottmann, J. SooHoo, V. L. Fish, G.-Y. Zhao, J. C. Algaba, R.-S. Lu, I. Cho, S. Matsushita, K.-F. Schuster (2025) First frequency phase transfer from the 3 mm to the 1 mm band on an Earth-sized baseline. AJ,Vol 169, 229. [AJ Open Access](https://iopscience.iop.org/article/10.3847/1538-3881/adbb55)
+
+- **S. Issaoun**, K. Alonso, K. Akiyama, L. Blackburn, D. Boroson, P. Galison, K. Haworth, J. Houston, M. D. Johnson, Y. Y. Kovalev, P. Kurczynski, R. Lafon, D. P. Marrone, D. Palumbo, E. Peretz, D. Pesce, L. Petrov, A. Plavin, J. Wang (2024) The Black Hole Explorer: operating a hybrid observatory. Proc. SPIE 13092, Space Telescopes and Instrumentation 2024: Optical, Infrared, and Millimeter Wave, 130926P. [ArXiv](https://arxiv.org/abs/2406.09610)
+
+- E. Chavez, **S. Issaoun**, M.D. Johnson, P. Tiede, C. Fromm, Y. Mizuno (2024) Prospects of Detecting a Jet in Sagittarius A* with Very-long-baseline Interferometry. ApJ, Volume 974, 116. [ApJ Open Access](https://iopscience.iop.org/article/10.3847/1538-4357/ad6b1f) 
+
+- **EHT Collaboration** et al. (2024a,b) First EHT Sgr A* Results. VII-VIII,  Volume 964, L25-L26. [ApJL Open Access](https://iopscience.iop.org/journal/2041-8205/page/Focus_on_First_Sgr_A_Results)
+
+- A. Shlentsova, F. Roelofs, **S. Issaoun**, J. Davelaar, H. Falcke (2024) Imaging the event horizon of M87* from space on different timescales. A&A, Vol. 686, A154.[A&A Open Access](https://www.aanda.org/articles/aa/full_html/2024/06/aa47214-23/aa47214-23.html) 
+
 - M. Wielgus, **S. Issaoun**, I. Marti-Vidal, R. Emami, C.D. Brinkerink, C. Goddi, E. Fomalont (2023) The internal Faraday screen of Sagittarius A*. Under review at A&A. [ArXiv](https://arxiv.org/abs/2308.11712)
   
 - N. La Bella, **S. Issaoun**, F. Roelofs, C. Fromm, H, Falcke (2023) Expanding Sgr A* dynamical imaging capabilities with an African extension to the Event Horizon Telescope. A&A, Vol. 672, A16. [A&A Open Access](https://www.aanda.org/articles/aa/pdf/2023/04/aa45344-22.pdf)
