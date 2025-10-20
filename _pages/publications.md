@@ -19,7 +19,7 @@ You can find my papers on [ADS](https://ui.adsabs.harvard.edu/search/filter_data
 
 - A. Shlentsova, F. Roelofs, **S. Issaoun**, J. Davelaar, H. Falcke (2024) Imaging the event horizon of M87* from space on different timescales. A&A, Vol. 686, A154.[A&A Open Access](https://www.aanda.org/articles/aa/full_html/2024/06/aa47214-23/aa47214-23.html) 
 
-- M. Wielgus, **S. Issaoun**, I. Marti-Vidal, R. Emami, C.D. Brinkerink, C. Goddi, E. Fomalont (2023) The internal Faraday screen of Sagittarius A*. Under review at A&A. [ArXiv](https://arxiv.org/abs/2308.11712)
+- M. Wielgus, **S. Issaoun**, I. Marti-Vidal, R. Emami, C.D. Brinkerink, C. Goddi, E. Fomalont (2023) The internal Faraday screen of Sagittarius A*. A&A, Vol. 682, A97. [A&A Open Access](https://www.aanda.org/articles/aa/full_html/2024/02/aa47772-23/aa47772-23.html)
   
 - N. La Bella, **S. Issaoun**, F. Roelofs, C. Fromm, H, Falcke (2023) Expanding Sgr A* dynamical imaging capabilities with an African extension to the Event Horizon Telescope. A&A, Vol. 672, A16. [A&A Open Access](https://www.aanda.org/articles/aa/pdf/2023/04/aa45344-22.pdf)
 
